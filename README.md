@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pelaoloco
+- 👀 I’m interested in 5M
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on 5M Scripts
