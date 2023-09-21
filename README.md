@@ -8,7 +8,7 @@
 - 🌱 Estoy siempre aprendiendo y explorando nuevas tecnologías y lenguajes de programación.
 - 🔭 Actualmente, me encuentro trabajando en la creación de scripts para mejorar la experiencia de los jugadores en servidores de FiveM.
 
-## 👨🏻‍💻 Programming language
+## 👨🏻‍💻 Aprendizaje
 
 <p align="center">
       <a href="https://www.lua.org/home.html"><img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg"/>
@@ -21,7 +21,7 @@
 </a>&nbsp;&nbsp;
     </p>
 
-## 💾 Used Tools
+## 💾 Herramientas 
 
 <p align="center">
       <a href="https://code.visualstudio.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"/></a>&nbsp;&nbsp;
