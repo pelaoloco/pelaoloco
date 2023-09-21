@@ -12,9 +12,21 @@
 
 ¡No dudes en revisar mis scripts para ver más proyectos interesantes!
 
-## Contacto
+### 👨🏻‍💻 Programming language
 
-- 📧 Puedes contactarme a través de mi dirección de correo electrónico: [pelaoloko.dev@gmail.com](mailto:pelaoloko.dev@gmail.com)
-- 🐦 También puedes encontrarme en [Discord](https://discord.gg/SyfSquKefU) compartiendo noticias y actualizaciones sobre mis proyectos
+<p align="center">
+      <a href="https://www.lua.org/home.html"><img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg"/>
+</a>&nbsp;&nbsp;
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg"/>
+</a>&nbsp;&nbsp;
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
+</a>&nbsp;&nbsp;
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg"/>
+</a>&nbsp;&nbsp;
+    </p>
 
-¡Gracias por visitar mi perfil de GitHub y espero que encuentres útiles mis scripts! Si tienes alguna pregunta o sugerencia, no dudes en contactarme pelaoloko#7703.
+### 💾 Used Tools
+
+<p align="center">
+      <a href="https://code.visualstudio.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"/></a>&nbsp;&nbsp;
+   </p>
