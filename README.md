@@ -12,7 +12,7 @@
 
 ¡No dudes en revisar mis scripts para ver más proyectos interesantes!
 
-### 👨🏻‍💻 Programming language
+## 👨🏻‍💻 Programming language
 
 <p align="center">
       <a href="https://www.lua.org/home.html"><img src="https://github.com/YisusOnDev/YisusOnDev/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg"/>
@@ -25,7 +25,7 @@
 </a>&nbsp;&nbsp;
     </p>
 
-### 💾 Used Tools
+## 💾 Used Tools
 
 <p align="center">
       <a href="https://code.visualstudio.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"/></a>&nbsp;&nbsp;
